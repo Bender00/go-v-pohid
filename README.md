@@ -1,2 +1,0 @@
-# go-v-pohid
-website
